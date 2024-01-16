@@ -16,6 +16,9 @@
 # Visual Studio cache directory
 .vs/
 
+# Jetbrains Project Settings
+.idea/
+
 # Gradle cache directory
 .gradle/
 
